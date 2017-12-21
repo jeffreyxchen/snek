@@ -1,7 +1,5 @@
-# ADD JAR FILES TO THE FOLLOWING LINE, SEPARATED BY ':' (NO WHITESPACE)
 JARS :=
 
-# DO NOT EDIT BELOW HERE
 SUBMIT  := $(wildcard src/*.java test/*.java files/* *.jar Makefile README.txt)
 
 
